@@ -1,0 +1,38 @@
+[FE]-[485] Refatorar a interface das bases de convites de acordo com o design fornecido pelo FIGMA.
+3
+
+[FE]-[486] Implementar um contador de caracteres abaixo do campo "Titulo do Convite", limitando-o a 40 caracteres.
+3
+
+[FE] - [487] Criar um botão "Habilitar Voucher" que permita habilitar o campo "Nome do Voucher" abaixo.
+3
+
+[FE] -[489] Implementar um contador de caracteres abaixo do campo "Descrição", limitando-o a 140 caracteres.
+3
+
+[FE]-[490] Implementar um campo de entrada para "Vencimento do convite" que aceite apenas datas no formato DD/MM/AAAA, maiores que a data atual, com um tooltip conforme o FIGMA.
+8
+
+[FE] - [TB-491] Criar o multiselect dos produtos para adicionar na seção "Adicionar produtos", permitindo a busca no próprio campo.
+8
+
+[FE]-[TB-492] Implementar a validação de campos obrigatórios para não permitir a adição de um novo convite se algum campo não estiver preenchido corretamente.
+8
+
+[FE]-[493] Implementar a lógica para destacar o título do campo não preenchido em vermelho caso o infoprodutor tente salvar um novo convite sem preencher todos os campos obrigatórios.
+5
+
+[FE]-[494] Desenvolver a lógica para destacar o campo de texto caso o infoprodutor atinja o limite máximo de caracteres.
+5
+
+[FE]-[495] Implementar a validação para que a data digitada seja possível e, caso não seja, destacar o campo em vermelho.
+5
+
+[FE]-[496] Criar a validação para que o número digitado no campo "Limite de Participantes" seja maior que zero e, caso não seja, destacar o campo em vermelho e exibir a mensagem "Digite um número válido".
+5
+
+[FE]-[497] Implementar o botão para copiar o link na tela de confirmação para facilitar a jornada do infoprodutor.
+3
+
+
+
